@@ -2,3 +2,5 @@ Flask==2.2.5
 spacy==3.7.2
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.12.2
+https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.7.0/de_core_news_sm-3.7.0-py3-none-any.whl
+https://github.com/explosion/spacy-models/releases/download/fi_core_news_sm-3.7.0/fi_core_news_sm-3.7.0-py3-none-any.whl
